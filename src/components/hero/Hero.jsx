@@ -23,7 +23,8 @@ const Hero = () => {
         <a
           className="hero-resume"
           href="/resume.pdf"
-          download="Sambhav_Surana_Resume.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
         >
           My resume
         </a>
