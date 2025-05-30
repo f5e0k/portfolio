@@ -11,7 +11,7 @@ const Hero = () => {
         <span>I'm Sambhav Surana ,</span>frontend developer in India.
       </h1>
       <p>
-        I am a frontend developer from IIT Roorkee,with handon experience on
+        I am a frontend developer from IIT Roorkee,with hands on experience on
         several exciting projects.
       </p>
       <div className="hero-action">
